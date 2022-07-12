@@ -1,10 +1,5 @@
 package one.digitalinnovation.gof.singleton;
 
-/**
- * Singleton "preguiçoso".
- * 
- * @author falvojr
- */
 public class SingletonLazy {
 
 	private static SingletonLazy instancia;
